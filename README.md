@@ -9,7 +9,7 @@ Analista QA. Apasionada en el mundo de las pruebas funcionales y no funcionales.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+[![My Skills](https://skillicons.dev/icons?i=mysql,js,postman,git,github,figma&theme=light)](https://skillicons.dev)
 
 ### Hard Skills 
 - Creación y ejecución de casos de pruebas
@@ -50,7 +50,5 @@ Puedes contactarme desde los siguientes enlaces a mis redes sociales
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <a href="mailto:dalimistura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
