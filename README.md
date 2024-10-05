@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**yenniferarce/yenniferarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yennifer Arce Guzmán
+#### Tester QA
+Analista QA. Apasionada en el mundo de las pruebas funcionales y no funcionales.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+### Hard Skills 
+- Creación y ejecución de casos de pruebas
+- Evidencia de Bugs
+- JMETER
+- JIRA
+- Confluence
+- Zephyr
+- SQL
+- Postman
+- SCRUM 
+- KANBAN
+- Pruebas de accesibilidad
+- Pruebas Moviles
+- GIT 
+
+### Soft Skills 
+- Comucicación asertiva
+- Trabajo en equipo 
+- Gestión del tiempoo
+- Autogestión 
+- hablar en publico 
+## Experiencia 
+## Certificaciones
+
+- Tester QA - Marzo 2024 a Noviembre 2024 - 230Horas.
+Minhub LA + PROTalento + Goyin
+
+[Link a mi insignia](hhtps://)
+
+## Proyectos 
+
+Analisis de página www.ss
+- Descripción: Se realizó ala página un smoke test, además de validar funcionalidades principales y realizar pruebas de carga. La información esta ordenada por ramas.
+[Proyecto www.ss](https:)
+## 🚀 Contacto
+Puedes contactarme desde los siguientes enlaces a mis redes sociales 
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+<a href="mailto:dalimistura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
