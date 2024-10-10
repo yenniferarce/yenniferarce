@@ -35,7 +35,7 @@ Analista QA. Apasionada en el mundo de las pruebas funcionales y no funcionales.
 ## Experiencia 
 ## Certificaciones
 
-- Tester QA - Marzo 2024 a Noviembre 2024 - 230Horas.
+- Tester QA - Julio 2024 a Noviembre 2024 - 230Horas.
 Minhub LA + PROTalento + Goyin
 
 [Link a mi insignia](hhtps://)
